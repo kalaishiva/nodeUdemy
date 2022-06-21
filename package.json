@@ -1,0 +1,17 @@
+{
+  "name": "udemy",
+  "version": "1.0.0",
+  "description": "Superheores and supervillans",
+  "main": "index.js",
+  "dependencies": {
+    "npm": "^8.12.2",
+    "superheroes": "^3.0.0",
+    "supervillains": "^3.0.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "kalai",
+  "license": "ISC"
+}
